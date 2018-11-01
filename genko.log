@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.10.18)  1 NOV 2018 16:59
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.10.18)  1 NOV 2018 20:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**template.tex
-(./template.tex
+**genko.tex
+(./genko.tex
 pLaTeX2e <2018-07-28>+1 (based on LaTeX2e <2018-04-01> patch level 5)
 (/usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 Document Class: jsarticle 2018/06/23 jsclasses (okumura, texjporg)
@@ -50,8 +50,8 @@ LaTeX Info: Redefining \LaTeXe on input line 200.
 )
 \heisei=\count91
 )
-(./template.aux)
-\openout1 = `template.aux'.
+(./genko.aux)
+\openout1 = `genko.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -86,21 +86,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 5.76599pt on input line 6.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 8.
+(Font)              scaled to size 11.53198pt on input line 7.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 8.
+(Font)              scaled to size 11.53198pt on input line 7.
  [1
 
 
-
-] (./template.aux) ) 
+] (./genko.aux) ) 
 Here is how much of TeX's memory you used:
  453 strings out of 493248
- 4803 string characters out of 6144401
- 69283 words of memory out of 5000000
+ 4776 string characters out of 6144401
+ 71283 words of memory out of 5000000
  4484 multiletter control sequences out of 15000+600000
  12350 words of font info for 53 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 23i,7n,20p,160b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,7n,20p,326b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on template.dvi (1 page, 608 bytes).
+Output written on genko.dvi (1 page, 3712 bytes).
